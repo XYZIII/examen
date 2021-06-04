@@ -1,0 +1,3 @@
+/home/helga/Projects/Store/Store/bin/Release/Store.exe
+/home/helga/Projects/Store/Store/obj/x86/Release/Store.csproj.CoreCompileInputs.cache
+/home/helga/Projects/Store/Store/obj/x86/Release/Store.exe

@@ -1,0 +1,6 @@
+/home/helga/Projects/Store/Store/bin/Debug/Store.exe
+/home/helga/Projects/Store/Store/bin/Debug/Store.pdb
+/home/helga/Projects/Store/Store/obj/x86/Debug/Store.csprojResolveAssemblyReference.cache
+/home/helga/Projects/Store/Store/obj/x86/Debug/Store.csproj.CoreCompileInputs.cache
+/home/helga/Projects/Store/Store/obj/x86/Debug/Store.exe
+/home/helga/Projects/Store/Store/obj/x86/Debug/Store.pdb
